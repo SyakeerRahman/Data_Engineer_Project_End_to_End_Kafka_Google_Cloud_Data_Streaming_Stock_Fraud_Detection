@@ -1,5 +1,7 @@
 # Data_Engineer_Project_End_to_End_Kafka_Google_Cloud_Data_Streaming_Stock_Fraud_Detection
 
+<img width="575" alt="Screenshot 2024-03-07 163632" src="https://github.com/SyakeerRahman/Data_Engineer_Project_End_to_End_Kafka_Google_Cloud_Data_Streaming_Stock_Fraud_Detection/assets/105381652/6fedef00-3b60-468b-ab9c-60481920ff25">
+
 ## Prerequisites
 
 1. Create a Confluent Cloud Account.
